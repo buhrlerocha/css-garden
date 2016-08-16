@@ -1,0 +1,67 @@
+body{
+	background-color :#1CA49B;
+}
+
+header{
+	text-align:center;
+	font-size: 25px
+	color:#ffffff;
+	background:#ffffff;
+	border: 2px solid black
+}
+
+.summary {
+	background:green;
+	color:black;
+	width:500px;
+    border: 2px solid black
+}
+.preamble{
+	background:#DFDB04;
+	color:black;
+	width:650px;
+	border: 2px solid black
+}
+.explanation{
+	background:#F7333D;
+	width:750px;
+	border: 2px solid black
+}
+.participation{
+	background:#8133F7;
+	width:850px;
+    border: 2px solid black
+}
+.benefits{
+	background:#1632a4;
+	width:950px;
+	border: 2px solid black
+}
+.requirements{
+    background:#CE23DA;
+	width:1050px;
+	border: 2px solid black
+}
+footer{
+	background:#ffffff;
+	width:1050px;
+	text-align:center;
+	border: 2px solid black
+}
+a{
+	color:#3C0C4E;
+}
+h3{
+	font-family:Verdana;
+	color:#ffffff;
+
+}
+
+
+
+
+
+
+
+
+
